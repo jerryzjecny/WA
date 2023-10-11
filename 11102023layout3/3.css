@@ -1,0 +1,33 @@
+.container {
+	width: 80%;
+	margin: 0 auto;
+}
+
+.header {
+	width: 100%;
+	height: 50px;
+}
+
+
+.sidebar {
+	float: left;
+	width: 33.3333%;
+	height: 300px;
+}
+
+.main-content {
+	float: left;
+	width: 33.3333%;
+	height: 300px;
+}
+
+.sub-content {
+	float: left;
+	width: 33.3333%;
+	height: 300px;
+}
+
+
+.footer {
+	clear: both;
+}
