@@ -1,0 +1,27 @@
+.header {
+	overflow: hidden;
+}
+.logo {
+	float: left;
+}
+.navigation {
+	float: right;
+}
+
+.main-content {
+	overflow: hidden;
+}
+.post {
+	overflow: hidden;
+}
+
+.image {
+	float: left;
+	width: 20%;
+	height: 150px;
+}
+
+.post_excerpt {
+	float: right;
+	width: 70%;
+}
